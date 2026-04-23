@@ -10,17 +10,6 @@ Join is a modern Kanban-style task management application that helps users organ
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here to showcase your UI)*
-Example:
-
-* Board view
-* Task detail view
-* Responsive layout
-
----
-
 ## ✨ Features
 
 * Create, edit, and delete tasks
