@@ -6,7 +6,9 @@ Join is a modern Kanban-style task management application that helps users organ
 
 ## 🌐 Live Demo
 
-👉 https://danielkrafzik.com/portfolio/join
+👉 <a href="https://join-app-dk.web.app" target="_blank">
+  Live Demo
+</a>
 
 ---
 
